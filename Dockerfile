@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM registry.cn-shanghai.aliyuncs.com/public-kubernetes/images:ubuntu-24.04
 
 MAINTAINER Brian Lycett <brian@wheelybird.com>
 
